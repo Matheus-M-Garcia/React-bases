@@ -1,0 +1,21 @@
+.btn {
+    width: 50%;
+    padding: 10px 20px;
+    font-size: 52px;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    border: none;
+    border-radius: 5px;
+    background-color: #5f4b88;
+    box-shadow: 0 7px 0 #2f224c; 
+    transition: transform 0.3s ease, box-shadow 0.5s ease; 
+    cursor: pointer;
+    font-family: 'Bebas Neue', sans-serif;
+  }
+  
+  .btn:hover {
+    box-shadow: 0 2px 0 #2f224c; 
+    transform: translateY(10px); 
+  }
+  
